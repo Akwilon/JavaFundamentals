@@ -3,6 +3,7 @@
 
 /.idea
 /target
+/out
 
 # Log file
 *.log
