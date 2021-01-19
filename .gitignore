@@ -5,6 +5,10 @@
 /target
 /out
 
+
+#MacOs fileSystem
+*.DS_Store
+
 # Log file
 *.log
 
